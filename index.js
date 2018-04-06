@@ -25,4 +25,3 @@ function deepestChild() {
   // return children[children.length - 1];
   return child;
 }
-  
